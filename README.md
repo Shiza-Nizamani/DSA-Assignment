@@ -1,46 +1,47 @@
 📚 DSA Assignment – June 2025
 
-This repository contains the Java solutions to my Data Structures and Algorithms (DSA) assignment. Each class focuses on a different DSA concept and demonstrates the use of stacks and recursion.
+Hi! 👋  
+This is where I’ve uploaded my Java solutions for the DSA (Data Structures & Algorithms) assignment we were given.
 
----
+There are three programs in total , each one solves a different question using stacks or recursion.
 
-## 🔍 Questions & Solutions
 
-### 1. ✅ `ParenthesesMatcher.java`
-- **Topic:** Stack – Parentheses Matching
-- **Description:**  
-  Checks whether a given string of parentheses (including `{}`, `[]`, and `()`) is balanced.  
-  Uses a stack to track opening brackets and ensures they match closing ones properly.
 
----
+ 🔎 What Each File Does:
 
-### 2. ✅ `RecursiveArraySum.java`
-- **Topic:** Recursion – Array Sum
-- **Description:**  
-  Takes an integer array as input and uses recursion to calculate the sum of all its elements.  
-  Demonstrates how recursive functions can process arrays without loops.
+ 🧩 ParenthesesMatcher.java
+This program checks if the parentheses in a string are balanced or not.  
+It uses a stack to match pairs like (), {}, and [] properly.
 
----
+ 🔁 RecursiveArraySum.java
+Here I used recursion to find the sum of all elements in an array.  
+It’s a simple recursive function that adds elements one by one.
 
-### 3. ✅ `ReverseArrayUsingStack.java`
-- **Topic:** Stack – Reverse Array
-- **Description:**  
-  Reads an array of integers from the user and uses a stack to reverse its elements.  
-  Pushes each element to the stack, then pops them back into the array in reverse order.
+ 🔄 ReverseArrayUsingStack.java
+This one takes an array input and reverses it using a stack.  
+Basically, it pushes all values into the stack and then pops them out in reverse order.
 
----
 
-## 🛠 Technologies Used
 
-- Language: Java
-- IDE: IntelliJ IDEA
-- Concepts: Stack, Recursion, Arrays, Basic Input Validation
+ 🛠 Tools I Used:
 
----
+- Java
+- IntelliJ IDEA
+- Stack (Java’s built-in)
+- Scanner for user input
+- Basic recursion
 
-## 👩‍💻 Author
+
+
+ 👩‍💻 A little about me
 
 **Shiza Nizamani**  
-BS Computer Science  
-DSA Assignment – 24 June 2025
-Roll number: 2k24/CSE/142
+BS Computer Science – DSA Assignment (June 2025)
+roll number : 2k24/CSE/142
+
+
+Let me know if anything’s missing — happy to explain the code!
+
+
+
+
