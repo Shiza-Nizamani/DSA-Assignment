@@ -33,3 +33,20 @@ public class RecursiveArraySum {
         System.out.println("Sum of array elements: " + sum);
     }
 }
+/* SAMPLE OUTPUT 1
+    Enter array size : 
+5
+Enter 5 element (seprated by space) : 
+10 20 30 40 50  
+Sum of array elements: 150
+
+Process finished with exit code 0 */
+
+/* SAMPLE OUTPUT 2
+    Enter array size : 
+3
+Enter 3 element (seprated by space) : 
+10 20 30 40
+Error: expected 3 elements but got 4
+
+Process finished with exit code 0*/
