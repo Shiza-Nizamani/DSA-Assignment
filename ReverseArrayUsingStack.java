@@ -37,4 +37,23 @@ public class ReverseArrayUsingStack {
             }
         }
     }
+/* SAMPLE OUTPUT 1
+        Enter array size: 
+3
+Enter 3 elements of array (seprated by space) :  
+10 20 30  
+Reversed array: 
+30 
+20 
+10 
 
+Process finished with exit code 0 */
+
+/* SAMPLE OUTPUT 2
+        Enter array size: 
+3
+Enter 3 elements of array (seprated by space) :  
+10 20 30 40
+you enetered 4 elements but expected 3
+
+Process finished with exit code 0 */
