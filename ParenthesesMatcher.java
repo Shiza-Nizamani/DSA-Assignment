@@ -35,3 +35,15 @@ public class ParenthesesMatcher {
         }
     }
 }
+/* SAMPLE OUTPUT
+    Enter a string with parentheses to check: 
+{(hello world)}
+Parentheses are balanced 
+
+Process finished with exit code 0*/
+/* SAMPLE OUTPUT 
+    Enter a string with parentheses to check: 
+{{(hello world}}})
+Parentheses are not balanced  
+
+Process finished with exit code 0 */
